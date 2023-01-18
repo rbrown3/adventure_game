@@ -11,8 +11,8 @@ If you give them the wrong key, their sadness persists or they may even become g
 When you have turned enough hearts red, you win the game. 
 
 # Requirements
-To play this game, you will need Python installed on your computer. You can download the correct version for your system using the following link: 
-https://www.python.org/downloads/
+To play this game, you will need Python installed on your computer. You can download the correct version for your system using the following [link] 
+(https://www.python.org/downloads/)
 
 After a successful install of python and cloning of this repository, you can run the command to start the game:
 
